@@ -1,6 +1,6 @@
-# {{ project_name }}
+# {{ cookiecutter.project_name }}
 
-Author: {{ author_name }}
-Version: {{ version }}
+Author: {{ cookiecutter.author_name }}
+Version: {{ cookiecutter.version }}
 
-This is the `{{ project_name }}` project.
+This is the `{{ cookiecutter.project_name }}` project.
